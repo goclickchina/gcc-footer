@@ -1,0 +1,24 @@
+<section class="gcc_sec position-relative">
+--
+  | <div class="container pt-4">
+  | <small><p>Goclick China specializes in website testing and monitoring for your China facing websites. We have deployed servers all across China and have boots-on-the-ground dedicated QA testers to carry out specific test tasks in strategic locations in China. We also develop customized website testing and monitoring solutions for your specific needs and on your budget. You can contact us to request sample China website testing reports.</p><p>Want to check if your website is blocked in China? Our website monitoring services can keep you updated if a website is accessible in China. Or do you need web hosting in China to keep your site performance at its best? We can offer you the best Chinese hosting options based on our benchmark data resulted from our years of testing hundreds and thousands of websites in China. Depending on your requirements and needs, we can assist you in your ICP application, marketing campaigns and website SEO for your websites and online properties. When it comes to website building, testing and marketing, regardless it is e-commerce China websites or informational portals, we have a series of solutions to help succeed in the unique Chinese digital ecosystem.
+
+</p></small>
+  | </div>
+  | </section>
+  | <!-- Old footer -->
+  | <!-- <footer class="p-3 p-lg-4 text-center">
+  | <div class="container">
+  | <small class="text-white ">&copy; 2020 <a href="/">GoClickChina</a>. All rights reserved</small>
+  | </div>
+  | </footer> -->
+  | <!-- New Footer -->
+  | <footer class="container text-center" style="height:5em;line-height:1.5em;max-width:100%">
+  | <div class="col-12 mt-md-2">
+  | <span class="text-white "><i class="fas fa-map-marker"></i> 20 Collyer Quay #01-02 Singapore 049319</span>
+  | </div>
+  | <div class="col-12">
+  | <span class="text-white ">&copy; 2019-2020 <a href="https://www.goclickchina.com/" style="color: inherit;">GoClickChina</a>. All rights reserved</span>
+  | </div>
+  | </footer>
+
