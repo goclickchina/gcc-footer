@@ -1,0 +1,107 @@
+<!-- Old footer -->
+<!-- <footer class="p-5 p-lg-4 text-center">
+    <div class="container">
+		<small class="text-white ">&copy; 2020 <a href="/">GoClickChina</a>. All rights reserved</small>
+    </div> 
+</footer> -->
+<!-- New Footer -->
+<footer class="pt-4 pl-5 pr-5 pb-3">
+	<div class="container-fluid">
+		<div class="row justify-content-center pt-3">
+			<div class="col-md-4 col-sm-12 text-white">	
+				<div class="row">
+					<div class="col-12 footer-info-color ml-1">
+						<i class="fa fa-map-marker fa-2x footer-icon" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;<span class="ml-1"><a href="https://goo.gl/maps/YN9Gn4S73FHRDwPD8" target="_blank">20 Collyer Quay #01-02 Singapore 049319</a></span>
+					</div>
+					<div class="col-12 mt-3 footer-info-color">
+						<i class="fa fa-envelope fa-2x footer-icon" aria-hidden="true"></i></i>&nbsp;&nbsp;&nbsp;<span><a href="mailto:info@goclickchina.com" target="_blank">Info@GoClickChina.com</a><span>
+					</div>
+					<div class="col-12 mt-3">
+						<p class="footer-text text-justify">Goclick China specializes in <a href="https://www.goclickchina.com/solutions/">testing websites and web applications in China</a> and monitoring their performance so that operators can optimize their content delivery effiency to target users in China. We have deployed servers all across China and have boots-on-the-ground dedicated QA testers to carry out specific test tasks in strategic locations in China. We also develop customized website testing and monitoring solutions for your specific needs and on your budget. You can contact us to request sample China website testing reports.</p>
+						<p class="footer-text text-justify">Want to <a href="https://www.goclickchina.com/insights/check-if-website-is-blocked-in-china/">check if a website is blocked in China</a>? Our website monitoring services can keep you updated if a website is accessible in China. Or do you need <a href="https://www.goclickchina.com/insights/how-to-choose-best-hosting-for-china-website/">web hosting in China</a> to keep your site performance at its best? We can offer you the best Chinese hosting options based on our benchmark data resulted from our years of testing websites in China in the thousands. Depending on your requirements and needs, we can assist you in your <a href="https://www.goclickchina.com/blog/icp-license-is-required-to-operate-in-china/">ICP license application</a>, marketing campaigns and website SEO for your websites and online properties. When it comes to website building, testing and marketing, regardless it is e-commerce China websites or informational portals, we have a series of solutions to help you succeed in the unique Chinese digital economy.</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-4 col-sm-12 text-center">
+				<div class="row">
+					<div class="col-12">
+						<img src="/wp-content/uploads/2021/01/goclickchina-1-300x108.png" class="img-fluid">
+					</div>
+					<div class="col-12 mt-5 mb-5">
+						<a class="p-3" href="https://www.facebook.com/Go-Click-China-118559363275101" target="_blank"><img src="/wp-content/uploads/fb.png" class="img-fluid"></a>
+						<a class="p-2" href="https://twitter.com/click_china" target="_blank"><img src="/wp-content/uploads/twitter.png" class="img-fluid"></a>
+						<a class="p-2" href="https://www.reddit.com/user/GoClickChina/" target="_blank"><img src="/wp-content/uploads/redit.png" class="img-fluid"></a>
+						<a class="p-3" href="https://www.linkedin.com/company/goclickchina/" target="_blank"><img src="/wp-content/uploads/linkend.png" class="img-fluid"></a>
+					</div>
+				</div>
+			</div>	
+			<div class="col-md-4 col-sm-12 text-white">
+				<div class="row">
+					<div class="col-12">
+						<h5 class="mb-3">Sitemap</h5>
+						<ul class="list-unstyled ml-3">
+							<li class="mt-3"><a href="/solutions" class="text-white"><h6>Solution</h6></a>
+								<ul>
+									<li class="mt-3"><a href="/solutions/manual-testing-china-websites" class="text-white">Manual Testing</a></li>
+									<li class="mt-3"><a href="/solutions/synthetic-testing" class="text-white">Synthetic Testing</a></li>
+									<li class="mt-3"><a href="/solutions/consulting-services" class="text-white">Consulting Service</a></li>
+								</ul>
+							</li>
+							<li class="mt-3"><a href="/blog" class="text-white"><h6>Blog</h6></a></li>
+							<li class="mt-3"><a href="/insights" class="text-white"><h6>Insights</h6></a></li>
+							<li class="mt-3"><a href="/about-us" class="text-white"><h6>About Us</h6></a></li>
+							<li class="mt-3"><a href="/contact-us" class="text-white"><h6>Contact Us</h6></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-12 text-center">	
+				<small class="text-white ">&copy; 2019-2021 <a href="/" style="color: inherit;">GoClickChina</a>. All rights reserved</small>
+			</div>		
+		</div>	
+	</div>
+</footer>
+
+<!--<div id="preloader"></div>-->
+<a href="#" class="back-to-top"><i class="fas fa-arrow-up"></i></a>
+</div>
+</div>
+<!-- JQuery -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/vidbg.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js">
+</script>
+<!-- MDB core JavaScript -->
+<!--<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.16.0/js/mdb.min.js"></script>-->
+<script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/assets/js/gcc.js"></script>
+<!-- Google Font Loader -->
+<!-- <script type="text/javascript" src="/wp-includes/js/webfontloader.js"></script> -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-163810117-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-163810117-1');
+</script>
+<script>
+	WebFontConfig = {
+		google: { families: ['Noto Sans TC:100,400,700,900&display=swap'] }//記得加上display=swap避免網頁一開始文字消失了~
+	};
+
+	(function (d) {
+		var wf = d.createElement('script'), s = d.scripts[0];
+		wf.async = true;//非同步方式載入.js
+		wf.src = '/wp-includes/js/webfontloader.js';
+
+		s.parentNode.insertBefore(wf, s);
+
+	})(document);
+</script>
+<?php wp_footer(); ?>
+</body>
+
+</html>
